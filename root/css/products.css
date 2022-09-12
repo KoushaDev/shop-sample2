@@ -203,32 +203,6 @@ header .fa-bars{
     text-decoration: line-through;
 }
 
-.pagination a{
-
-    color: black;
-    
-    float: left;
-    
-    padding: 10px 15px;
-    
-    text-decoration: none;
-    
-    }
-    
-    .pagination a.active{
-    
-    background-color: rosybrown;
-    
-    color: white;
-    
-    }
-    
-    .pagination a:hover:not(.active) {
-    
-    background-color: lightgray;
-    
-    }
-
 .contact .row{
     display: flex;
     flex-wrap: wrap-reverse;
