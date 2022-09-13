@@ -424,6 +424,7 @@ header .fa-bars{
     display: flex;
     flex-wrap: wrap;
     gap:1.5rem;
+    margin-top: 20px;
 }
 
 .footer .box-container .box{
